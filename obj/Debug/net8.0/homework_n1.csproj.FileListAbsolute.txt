@@ -1,0 +1,14 @@
+/home/sandro/dotnet-project/homework_n1/bin/Debug/net8.0/homework_n1
+/home/sandro/dotnet-project/homework_n1/bin/Debug/net8.0/homework_n1.deps.json
+/home/sandro/dotnet-project/homework_n1/bin/Debug/net8.0/homework_n1.runtimeconfig.json
+/home/sandro/dotnet-project/homework_n1/bin/Debug/net8.0/homework_n1.dll
+/home/sandro/dotnet-project/homework_n1/bin/Debug/net8.0/homework_n1.pdb
+/home/sandro/dotnet-project/homework_n1/obj/Debug/net8.0/homework_n1.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandro/dotnet-project/homework_n1/obj/Debug/net8.0/homework_n1.AssemblyInfoInputs.cache
+/home/sandro/dotnet-project/homework_n1/obj/Debug/net8.0/homework_n1.AssemblyInfo.cs
+/home/sandro/dotnet-project/homework_n1/obj/Debug/net8.0/homework_n1.csproj.CoreCompileInputs.cache
+/home/sandro/dotnet-project/homework_n1/obj/Debug/net8.0/homework_n1.dll
+/home/sandro/dotnet-project/homework_n1/obj/Debug/net8.0/refint/homework_n1.dll
+/home/sandro/dotnet-project/homework_n1/obj/Debug/net8.0/homework_n1.pdb
+/home/sandro/dotnet-project/homework_n1/obj/Debug/net8.0/homework_n1.genruntimeconfig.cache
+/home/sandro/dotnet-project/homework_n1/obj/Debug/net8.0/ref/homework_n1.dll
